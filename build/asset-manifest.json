@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b7bf092.css",
-    "main.js": "/static/js/main.d651f58c.js",
-    "static/js/787.6da4c612.chunk.js": "/static/js/787.6da4c612.chunk.js",
-    "index.html": "/index.html",
-    "main.8b7bf092.css.map": "/static/css/main.8b7bf092.css.map",
-    "main.d651f58c.js.map": "/static/js/main.d651f58c.js.map",
-    "787.6da4c612.chunk.js.map": "/static/js/787.6da4c612.chunk.js.map"
+    "main.css": "/relogio/build/static/css/main.8b7bf092.css",
+    "main.js": "/relogio/build/static/js/main.92d96420.js",
+    "static/js/787.6da4c612.chunk.js": "/relogio/build/static/js/787.6da4c612.chunk.js",
+    "index.html": "/relogio/build/index.html",
+    "main.8b7bf092.css.map": "/relogio/build/static/css/main.8b7bf092.css.map",
+    "main.92d96420.js.map": "/relogio/build/static/js/main.92d96420.js.map",
+    "787.6da4c612.chunk.js.map": "/relogio/build/static/js/787.6da4c612.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b7bf092.css",
-    "static/js/main.d651f58c.js"
+    "static/js/main.92d96420.js"
   ]
 }
