@@ -1,9 +1,10 @@
 
 
 body {
-  display: flex;
-  justify-content: center;
-  background: linear-gradient(258deg, #0f47c5, #8fabfb);
+    background: linear-gradient(165deg,#0e51e8,#3d5db9);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
 }
 
 p {
