@@ -1,10 +1,10 @@
 
 
 body {
-    background: linear-gradient(165deg,#0e51e8,#3d5db9);
-    display: flex;
-    justify-content: center;
-    height: 100vh;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  background-image: url(https://i.pinimg.com/originals/4a/96/e6/4a96e602750b8ef669a77565becf3939.gif);
 }
 
 p {
@@ -12,4 +12,5 @@ p {
   font-family: sans-serif;
   border: solid;
   border-radius: 88px;
+  color: white;
 }
