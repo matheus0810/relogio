@@ -14,3 +14,17 @@ p {
   border-radius: 88px;
   color: white;
 }
+
+
+@media (max-width: 768px) {
+
+  p {
+    border: solid;
+    border-radius: 88px;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 71px;
+    margin: 250px 0px 2px -17px;
+}
+  
+}
