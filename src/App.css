@@ -37,5 +37,5 @@ p {
 
 p {
   padding: 20px;
-  filter: blur(0.1px) drop-shadow(2px 4px 6px #bd02bd);
+  filter: drop-shadow(2px 4px 6px #bd02bd);
 }
