@@ -1,12 +1,15 @@
 
 
 body {
+  background-image: url(https://data.whicdn.com/images/282863932/original.gif);
+  display: flex;
+  height: 100vh;
+  justify-content: center;
   margin: 0;
   padding: 0;
-  height: 100vh;
-  background-image: url(https://i.pinimg.com/originals/4a/96/e6/4a96e602750b8ef669a77565becf3939.gif);
-  display: flex;
-  justify-content: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
 }
 
 p {
@@ -34,4 +37,5 @@ p {
 
 p {
   padding: 20px;
+  filter: blur(0.9px) drop-shadow(2px 4px 6px purple);
 }
